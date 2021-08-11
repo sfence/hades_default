@@ -1,9 +1,5 @@
 -- fake some functions
 
-
-default = {}
-
-
 default.gui_bg     = ""
 default.gui_bg_img = ""
 default.gui_slots  = ""
