@@ -11,3 +11,5 @@ dofile(modpath.."/crafting.lua")
 
 dofile(modpath.."/hades.lua")
 
+dofile(modpath.."/moreblocks.lua")
+
