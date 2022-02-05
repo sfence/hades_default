@@ -9,3 +9,5 @@ dofile(modpath.."/functions.lua")
 dofile(modpath.."/nodes.lua")
 dofile(modpath.."/crafting.lua")
 
+dofile(modpath.."/hades.lua")
+
