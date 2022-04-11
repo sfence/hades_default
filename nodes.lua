@@ -15,10 +15,11 @@ minetest.register_node("hades_default:desert_sand", {
 	sounds = hades_sounds.node_sound_sand_defaults(),
 })
 
+-- this is used in Hades Revisited like limestone sand
 minetest.register_node("hades_default:silver_sand", {
 	description = S("Silver Sand"),
 	tiles = {"default_silver_sand.png"},
-	groups = {crumbly = 3, falling_node = 1, sand = 1},
+	groups = {crumbly = 3, falling_node = 1, limestone_sand = 1},
 	sounds = hades_sounds.node_sound_sand_defaults(),
 })
 
